@@ -20,7 +20,7 @@ Other teammates owned complementary modules per the team charter; this repo docu
 |:---:|
 | ![ProManage wireframes and system design](docs/screenshots/design-overview.png) |
 
-> Add ERD PNG and wireframe exports to `docs/screenshots/` when exported from coursework files.
+
 
 ## Scope
 
